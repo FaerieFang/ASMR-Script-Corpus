@@ -1,0 +1,157 @@
+[The echo of a faint dripping in the distance]
+ 
+[Dungeon ambience]
+ 
+[Chains rattling]
+ 
+Ah, good.  It seems you’ve finally woken up from your little nap.
+ 
+[Pause for response]
+ 
+[With a light laugh]  Shouldn’t you be worried about yourself right about now?  Besides, the well-being of your target isn’t any of your concern.
+ 
+[Pause for response]
+ 
+“Where are they (is she/he)?”  [With a laugh]  Same as you.  You’ve both been taken to the castle dungeon.  Trophies for our splendorous queen.  You should be grateful I’ve given you such a generous ending considering how much you’ve disappointed me.
+ 
+[Pause for response]
+ 
+[With contempt]  Don’t bother apologizing now.  You aren’t going to be getting any pity from me.  I paid you to do a job, and you haven’t delivered on your end of the bargain.
+ 
+[Pause for response]
+ 
+If you’re <trying>, then why did the soldiers hear the two of you <conversing> that night?  You didn’t forget about your assignment, did you?
+ 
+[Pause for response]
+ 
+[Suspiciously]  Complications?  Such as…?
+ 
+[Pause for response]
+ 
+Oh, but I think it <is> my concern.  After all, I hired you to do a <job>, and you aren’t doing it.  Don’t I have every right to wonder why it is that you aren’t getting things done?  [A beat]  It could be that you’ve grown to <care> about your target, could it?  [With a light laugh]  Now <that> would be a shame.  None of this would have happened if you’d just made sure they were (she/he was) dead that night.  [Ominously kind]  But not to worry.  You can make up for the mistakes you’ve made regarding this matter.
+ 
+[Pause for response]
+ 
+I’m giving you a chance to fix your mistakes.  If you agree to my terms, I’ll unlock your manacles.
+ 
+[Pause for response]
+ 
+The terms are simple.  I’ll bring the other prisoner here and give you what you need to do your job.  You kill your target here and now, and you’ll be free to go.  We can move past all of this and you won’t have to step foot on the battlefield for the remaining duration of this war.  [A beat]  You <do> want to live a peaceful life someday, don’t you?  I’ll even double what I originally paid you if you can manage it this time.  So, what do you say?
+ 
+[Pause for response]
+ 
+[With a laugh]  You don’t seem confident in your answer.  You know, for someone regarded as the best assassin in all the lands, you certainly do hesitate quite a bit.
+ 
+[Pause for response]
+ 
+Let you go and you’ll show me how willing you are to do it?  [Pleased]  Now <that’s> the fire I saw in you all those months ago.  It’s amazing what a little… persuasion can do for a person.  [A beat]  I’ll go get the little mouse for you, then.
+ 
+[Footsteps echo on stone for a few seconds]
+ 
+[Footsteps mix with the sound of chains rattling and the sound of a body being dragged]
+ 
+[Pause for response]
+ 
+[With a laugh]  Of course they aren’t (she/he isn’t) putting up a fight!  They’re (She’s/He’s) unconscious.  [A beat]  They (She/He) woke up a while before you did, and you should’ve seen the way they (she/he) thrashed about.  [With a light laugh]  Even begged me to spare your life.
+ 
+[Pause for response]
+ 
+Oh, yes.  I was just going to kill you both.  Present your body to the queen as a traitor and present the other one as a token of her victory.  No matter what, this war would have ended with them (him/her) slain at the queen’s feet.  A stubborn thing our little mouse is.  [A beat]  Did you know that the queen is the one who taught the little mouse how to wield a sword?
+ 
+[Pause for response]
+ 
+[Surprised] Spoke about the queen the night of the masquerade as if she was a stranger?  How typical of a Strombund royal family member.
+ 
+[Pause for response]
+ 
+[With a sigh]  Yes, tensions between the two families are rather… high, but the queen had always been gentle to the young heir.  [Disgusted]  And look at them (him/her) now.  The ungrateful little whelp.
+ 
+[Pause for response]
+ 
+[Angrily]  Do <not> come to their (his/her) defense!  Must I remind you of your place?  Such insolence from a person (man/woman) like you will not be tolerated.  Is that understood?
+ 
+[Pause for response]
+ 
+[Satisfied]  That’s more like it.
+ 
+[Pause for response]
+ 
+“Why aren’t they (isn’t she/isn’t he) waking up?”  It’s simple.  I put them (him/her) back to sleep using the pollen of the manataze* flower.  The effects will last much longer than you need to end all of this.
+ 
+[Pause for response]
+ 
+Mercy?  [With a laugh]  I suppose some might consider it a mercy, but I assure you, that wasn’t the intention.  I simply didn’t wish to deal with the sound of their (his/her) thrashing.  [A beat]  They don’t (She doesn’t/He doesn’t) deserve mercy.  Not after all the cruel things that have been said about the queen.
+ 
+[Pause for response]
+ 
+[With a sigh]  Contrary to what people might believe, she was much gentler in her youth, before she took the throne.  Many don’t understand the royal traditions in Valteria.  The royals don’t rule with an iron fist.  [A beat]  Besides, from what I heard, back when she was still a princess, the queen was going to present the Strombund royal family with a proposal for peace in the form of a potential suitor for the royal heir.  However, the ward she had been looking after and preparing had been taken and hidden away from her by the previous king of the Kingdom of Strombund.  Perhaps he felt the child was being used.  I can’t say, but nobody in the castle has heard anything of that ward since then.  [Sadly]  That loss embittered the queen.
+ 
+[Pause for response]
+ 
+[With a light laugh]  I suppose you’re right.  Perhaps it wasn’t important.  I was just… thinking about it was all.  [With a sigh]  Well, I suppose it’s time for you to finally put an end to this, isn’t it?  [A beat]  Now, what’s your weapon of choice?
+ 
+[Pause for response]
+ 
+Yes, your weapon of choice.  If you’d prefer, I’ll even let you use poison.  It <is> a special occasion, after all.  We’ll finally be ridding the queen of one of her most… persistent annoyances.
+ 
+[Pause for response]
+ 
+[With a light laugh]  A simple dagger, huh?  Well, I suppose even the simplest of things can get a job as big as this done.  Very well.
+ 
+[They unlock the assassin’s manacles]
+ 
+[There is a soft thud]
+ 
+[They hold a dagger out]  Here.  Your weapon.
+ 
+[The assassin takes the dagger in their hand and steps toward the unconscious heir]
+ 
+[With a light laugh]  You’re shaking.  If you aren’t ready, you don’t have to do it right away.  Like I said before, the little mouse will be asleep for a while.  Manataze pollen is quite strong, after all.
+ 
+[Pause for response]
+ 
+[With a laugh]  “Does the queen know?”  What a question!  [A beat]  But no, the queen doesn’t know anything about our little arrangement.  I hired you for her sake, but she isn’t aware.  I thought that maybe if that royal <brat> was gone, the poor woman wouldn’t feel so guilty about expanding her kingdom.  It’s her only choice, after all.
+ 
+[Pause for response]
+ 
+“Innocent”?  You really think that <vermin> is innocent?  [With a click of their tongue]  Poor thing.  They’ve (She’s/He’s) got you wrapped around their (his/her) little finger, don’t they (doesn’t she/he)?  [A beat]  You know they don’t (she/he doesn’t) even know who you are, right?
+ 
+[Pause for response]
+ 
+Can get to know you?  [With a sigh]  I don’t quite think you understand.  The little mouse doesn’t see <you> when they (she/he) look(s) at you.  They (She/He) didn’t even recognize <me> at first, and I was once a very familiar presence in their (his/her) life.  You have no idea how long it takes to establish that kind of connection to them (him/her).  [A beat]  Besides, there won’t be an opportunity for them (him/her) to get to know you because they’ll (she’ll/he’ll) be dead after today.
+ 
+[Pause for response]
+ 
+[With a sigh]  Perhaps with this, the two kingdoms can finally unite under one ruler.  This is the only way we will ever know peace.
+ 
+[The assassin tackles the guard to the ground]
+ 
+[The guard yelps in pain and anger]
+ 
+[Angrily]  What on earth are you doing?  <I> am not your enemy!
+ 
+[Pause for response]
+ 
+[Surprised]  You can’t be serious!  We had an agreement!  [A beat]  [With a sigh]  I should’ve known a person (man/woman) like you would take the first opportunity to strike me down.  Go on, then.
+ 
+[Pause for response]
+ 
+No, I’m not going to fight back.  My loyalties lie with the Queen of Valteria, and I fight for what is in her best interest.  [Gently]  And no matter what you think, this <was> in the queen’s best interest.  The end of this war is in her best interest.  It may have just started, but… nobody wants it to last.  Least of all, she.
+ 
+[Pause for response]
+ 
+[With a laugh]  You hesitate.  I think meeting the little mouse has caused you to grow soft.  [A beat]  But perhaps that isn’t necessarily a bad thing.  I admit that… a part of me wondered if you were really meant to be an assassin.  Not because you aren’t skilled.
+ 
+[Pause for response]
+ 
+Just a feeling.  [A beat]  You know if you let me live, I’ll send as many people as I can to hunt you down for treachery to the crown.
+ 
+[Though hesitant, the assassin slits the guard’s throat]
+ 
+[The dagger clangs to the ground]
+ 
+[Fabric shifts and chains rattle as the assassin struggles to get the heir onto their back]
+ 
+[The assassin begins to walk through the dungeon, gripping onto the heir tightly]
+ 
+[The heir stirs lightly in their slumber.  Perhaps they even mutter something]

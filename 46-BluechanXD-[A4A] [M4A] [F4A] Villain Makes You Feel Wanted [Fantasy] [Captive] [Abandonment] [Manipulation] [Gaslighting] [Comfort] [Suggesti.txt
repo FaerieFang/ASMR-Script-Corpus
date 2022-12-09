@@ -1,0 +1,533 @@
+[sfx: Ambient nature sounds]
+
+[sfx: Door opening]
+
+(gentle) “Good morning.”
+
+…
+
+“I didn’t wake you up, did I?”
+
+…
+
+“Well you look like you just got out of bed. You haven’t even brushed your hair yet.”
+
+…
+
+“Are you sure you don’t want some more time to sleep in? We can save your breakfast for later if you’d like. I can leave it by the fire to keep warm.”
+
+…
+
+“If you want me to just leave it on the vanity, then I’m going to have to insist you eat it now so it won’t go cold.”
+
+…
+
+“Don’t worry. It should be very easy on the stomach. It’s light and full of your favorite fruits to help start the day. Should pick you right up.”
+
+…
+
+“Relax. You don’t have to get ready for anything. No need to rush.”
+
+…
+
+“It’s only me. And I’m not bothered by seeing you in your nightwear.”
+
+…
+
+“(chuckle) You act like I don’t see you in them every morning.”
+
+…
+
+(amused) “And I hope you haven’t forgotten who gave them to you in the first place.”
+
+…
+
+“Exactly. So there’s nothing to worry yourself over.”
+
+…
+
+“You can leave your hair as is for the time being. I don’t mind.”
+
+…
+
+“Hm. I’d be lying if I said it looks fine the way it is. But there is a sort of charm to you looking like an owlet.”
+
+…
+
+“(chuckle) I only say it in jest.”
+
+…
+
+“If it bothers you, then I can fix it up for you while you have your breakfast. It’ll save some time.”
+
+…
+
+“It’s no trouble at all. I’m more than happy to make your life a little bit easier.”
+
+…
+
+“Alright. Come over to the vanity so you can see better.”
+
+…
+
+“Here you are. Enjoy your meal. It’s still nice and warm.”
+
+…
+
+“Now let’s see what we can do about this. I can’t promise that I’ll do a better job than you, but I’ll try to be as gentle as possible. So just relax.”
+
+[sfx: Brushing hair]
+
+…
+
+“How does it taste?”
+
+…
+
+“I’m happy to hear that. I made sure to pick them fresh from the garden. That’s about as ripe as they’ll get.”
+
+…
+
+“(content hum)”
+
+…
+
+“That’s not too harsh, is it?”
+
+…
+
+“That’s good. There’s a few tangles here that are being a bit of a nuisance. Just let me know if anything bothers you and I’ll take it more slowly.”
+
+…
+
+“Already looking a lot better, isn’t it?”
+
+…
+
+“So much softer without all those tangles. And look at that nice shine there. Those new soaps are doing the trick, don’t you think?”
+
+…
+
+“I’ll make sure to get you some more from the market the next time I visit.”
+
+…
+
+“Hm. I’ll think about it. But you didn’t like the binding spell I used last time I brought you along. So we’ll need to find something more comfortable.”
+
+…
+
+“Trust takes time to build. And I want to make sure that you trust me as much as I trust you before I make any decisions like that.”
+
+…….
+
+[sfx: Hair brushing stops]
+
+“You know. There was this really cute hairstyle you used to wear a while back. It was parted this way and you had your bangs looking something like this.”
+
+…
+
+“Yes, yes. Could you teach me how to do that one? I think it would look especially nice with how healthy your hair is right now.”
+
+…
+
+“Oh? Who would do it for you then?”
+
+…
+
+“I see. Which friend was it?”
+
+…
+
+“That’s…the mage, right? Forgive me, but I’m not too good with names.”
+
+…
+
+“Yes, that’s it. She did quite a fine job then.”
+
+…
+
+“You wouldn’t happen to remember the steps she took to style it like that, would you?”
+
+…
+
+“I’ll take whatever you can give me to work with. I just want to try my hand at recreating that look.”
+
+…
+
+“Anywhere’s a good start, really.”
+
+…
+
+“Let’s see then. We part it like this first. And then…pull this back…”
+
+…
+
+“What’s next?”
+
+…
+
+“So over like this…move this next to that…then under…”
+
+…
+
+“Hm…”
+
+…
+
+“It’s ah…somewhat reminiscent of that look, if I’m being generous.”
+
+…
+
+“No, it’s not your fault. You did well explaining it to me. I’m just not cut out to be a hairdresser. My strengths lie elsewhere, that’s for sure.”
+
+…
+
+“Well I’m flattered to hear that. I wasn’t used to cooking, but you being here has pushed me quite a bit to become better at it.”
+
+…
+
+“Of course. Only the best for you.”
+
+…
+
+“I think I was right in not getting you anything for your skin. You have a nice natural glow when you smile like that.”
+
+…
+
+“(chuckle then sigh) Now all we need is a hairstyle that is equally flattering.”
+
+…
+
+“How about we try something a little more simple? I think I can make it work a lot better that way. And it won’t take away from that pretty face of yours.”
+
+…
+
+(amused) “I am being very honest, I’ll have you know.”
+
+…
+
+“Alright. Let’s try parting it from here this time. Then we can move this back so it doesn’t hide your face as much.”
+
+…
+
+“And this goes over here…just pull your bangs back like this…”
+
+…
+
+“Now I think that looks a lot better. Simple and straight to the point. So much easier to see you smile like this, too.”
+
+…
+
+“I’m glad you like it. We’ll keep it like this for now then.”
+
+…
+
+“A shame I couldn’t get the other one down well enough, though.”
+
+…
+
+“Hm…”
+
+…
+
+“Unfortunately, no. Your friend can’t be here to do it for you.”
+
+…
+
+“I could make accommodations for another person to live here…but that would require her coming by for a visit.”
+
+…
+
+“It would be easier if your friends were in the area. But I imagine they have other priorities elsewhere that take precedence.”
+
+…
+
+“(quiet sigh)”
+
+…
+
+(close) “Sad to say, I don’t think they’re coming for you.”
+
+…
+
+(close) “Well, when you were with them, you all had this great plan to take on some larger than life being, didn’t you? A much greater threat than I could ever be. Not something I like to admit, but it’s the truth.”
+
+…
+
+(close) “Honestly, I think that my timing was impeccable for deciding when to bring you here. So close to your goal. Not enough time to spare to take a bit of a detour. You all were running on borrowed time, weren’t you?”
+
+…
+
+(close) “Still, to just abandon you like that. You have to wonder what was going through their heads at the time. What basis did they use to weigh their options, hm? Was that larger than life being so much of a threat that it required their immediate attention? I think we would have heard something about their endeavors by now if that were the case.”
+
+…
+
+(close) “Could be that they thought you were expendable. I can’t imagine leaving a valuable fighter like that right when you’re about to head off to a major battle.”
+
+…
+
+(close) “If we want to be optimistic, leaving you behind could be their way of protecting you.”
+
+…
+
+(close) “(sinister chuckle) Maybe they knew you’d be safe with me.”
+
+…
+
+(close) “Well, you are, aren’t you? I’ve taken good care of you all this time, haven’t I?”
+
+…
+
+(close) “I wouldn’t put it past them to make a judgment call like that. Your friends are sharp. Let’s not pretend that they don’t see things for what they truly are.”
+
+…
+
+(close half whisper) “I know that they know how I feel about you.”
+
+…
+
+(close half whisper) “All those times I avoided harming you in battle when I had a clear shot. Always conveniently running into whatever group you happened to be a part of whenever you split up. Stealing looks in the middle of your leader’s excruciatingly dull speeches. I would have been shocked if they hadn’t noticed.”
+
+…
+
+“I’m certain because your leader wouldn’t have confronted me about it if he hadn’t.”
+
+…
+
+“Because I came looking for you one night and he stopped me in my tracks just outside your campsite. He had the most priceless expression when he put two and two together.”
+
+…
+
+“It was just him if I recall. Seems like the rest of you were fast asleep at the time.”
+
+…
+
+"Must have kept that little experience to himself then. Strange since letting you all know could have prepared you for my successful attempt. But then we wouldn’t be where we are now if he had. And I very much prefer it that way.”
+
+…
+
+“I have to say, I don’t appreciate being underestimated like that. But I won’t complain because it got me what I wanted.”
+
+…
+
+(close half whisper) “I have several things that I want. But above all else, you have always been the priority.”
+
+[sfx: Clothes rustling/hugging]
+
+(close half whisper) “You bring out my most latent desires just by being nearby."
+
+…
+
+(close half whisper) “I knew I had to have you for myself. I had to bring you closer.”
+
+…
+
+“But even now, you’re still so far away. Running my fingers through your hair and holding you like this isn’t enough.”
+
+…
+
+“The physical barriers are no longer there. It’s just the emotions that are in the way.”
+
+…
+
+“I think my feelings are very clear. But with you, there’s so much to unpack.”
+
+…
+
+“Could you answer something for me?”
+
+…
+
+“Have you ever loved someone before?”
+
+…
+
+“What were they like?”
+
+…
+
+“(solemn sigh)”
+
+…
+
+“I can’t say I’m surprised since you’ve been traveling together for so long.”
+
+…
+
+“Did your friend know?”
+
+…
+
+“And did you ever confess?”
+
+…
+
+“I see… That must have hurt quite a bit.”
+
+…
+
+“Your so-called friends aren’t doing themselves any favors by treating you this way. Puts this entire situation into perspective, doesn’t it?”
+
+…
+
+“First you get harshly rejected by a loved one, then your leader fails to prepare for a potential kidnapping despite knowing a threat exists. And now all your friends have gone off on their own little journey without you. How heartless can they be?”
+
+…
+
+(cynical) “Heh. Maybe they thought they were doing you a favor by leaving you with someone who actually cared.”
+
+…
+
+“Well at least they were right about one thing. I do care.”
+
+…
+
+“It’s okay. You can cry if you want to.”
+
+…
+
+“Don’t worry. I’ll stay right here with you. I’m not going anywhere.”
+
+…
+
+(gentle) “There, there. Just let it all out.”
+
+…….
+
+“Does that feel better?”
+
+…
+
+“Good. You needed to let all of those emotions out. I bet you were holding on to them for a long time.”
+
+…
+
+“Exactly. You’re going to feel a lot better after this.”
+
+…
+
+“And there’s something I’d like for you to know.”
+
+…
+
+“You are very much loved and wanted.”
+
+…
+
+“The time we’ve spent together can’t compare to the time you’ve had with your friends. But I can promise you that what I provide will have so much more value than anything they’ve ever given you.”
+
+…
+
+(intense) “I’ve given you this home. I’ve given you a life free of conflict. I’ve given you everything you could possibly need to live a long, healthy life. And I can give you the love you so desperately want.”
+
+…
+
+(intense) “I can give you what they couldn’t.”
+
+…
+
+“Answer this for me.”
+
+…
+
+“Would that friend have kissed you if you asked?”
+
+…
+
+(close half whisper) “Do you want to be kissed?”
+
+…
+
+(close half whisper) “Then I want you to ask me.”
+
+…
+
+[Kissing]
+
+…
+
+“Just know that you can ask me for anything and I’ll give it to you.”
+
+…
+
+“Of course. I’ll stay with you for as long as you like.”
+
+…
+
+“Yes. Even until you fall asleep again.”
+
+…
+
+(amused) “Yes, yes. We can go to the market together when you wake up. No binding spell this time.”
+
+…
+
+“Because we trust each other, don’t we?”
+
+…
+
+“Of course. I’ve always trusted you.”
+
+…
+
+“And I hope that you trust me to watch over you while you sleep. But that might be difficult with how little space there is here for me to sit.”
+
+…
+
+“How about we use my room instead? My bed can fit more than one person on it.”
+
+…
+
+“Well you used to sleep close to your friends while camping out in the wilderness. Think of it like that but much more comfortable.”
+
+…
+
+“Try it out and see for yourself.”
+
+…
+
+“Alright. Come this way then.”
+
+…
+
+“You’ve never seen the inside, have you? There’s a lot of space and reading material you can go through.”
+
+…
+
+[sfx: Door opening]
+
+“Here it is. Make yourself at home.”
+
+…
+
+“Don’t be shy. Come in.”
+
+…
+
+“There’s no need for concern. You’ll be safe with me.”
+
+…
+
+“Yes. I’ll stay with you the entire time. You won’t be alone.”
+
+…
+
+(suggestive) “I can hold you if you’d like some reassurance.”
+
+…
+
+“Anything to make you feel more comfortable.”
+
+…
+
+(suggestive) “Of course. I’ll make sure to take extra good care of you from now on.”
+
+…
+
+“Come then. You can lie down right over here.”
+
+...
+
+(suggestive) "That's it. Very good."
+
+[sfx: Door closing]

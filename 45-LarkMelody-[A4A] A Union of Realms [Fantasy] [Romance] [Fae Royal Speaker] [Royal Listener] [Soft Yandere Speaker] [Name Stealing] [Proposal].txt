@@ -1,0 +1,185 @@
+[The sounds of footsteps in dirt]
+ 
+[The sound of humming]
+ 
+[Forest ambience]
+ 
+[Humming stops]
+ 
+[Footsteps slow]
+ 
+[Worried]  Hello?  Is somebody there?  Please tell me that’s a person and not a vicious animal looking for its next meal.  I-I swear I don’t taste good.
+ 
+[Footsteps stop]
+ 
+[Relieved]  Oh, it’s only another person.  What brings you into the forest?
+ 
+[Pause for response]
+ 
+[With a light laugh]  That’s a fair point.  I guess you <could> ask the same of me.  There’s not much to say, though.  I’m here because it’s a nice place to rest.  I’ve been traveling, you see.  And being right next to the stream, well, it reminds me of home.  Here, why don’t you sit down?  You must be tired from all that walking, and it’s nice and calm here.
+ 
+[The human sits]
+ 
+So, what brings you here?  It <is> pretty deep into the forest, after all.  Wouldn’t want you getting lost.
+ 
+[Pause for response]
+ 
+Just needed a break?  Even so, you’ve gone quite far into the forest just for that.  And you could have encountered something really scary.  Like a wolf.  Or a bear.  What would you have done then?
+ 
+[Pause for response]
+ 
+Oh!  Oh, I didn’t notice the scabbard at your hip.  My apologies.  I suppose you would have been able to take care of any threat you’d come across, in that case.  But you know, I think there’s plenty scarier things than wolves and bears out here.
+ 
+[Pause for response]
+ 
+[Amused]  “Like what” they say (she/he says)!  Like the things that can take on a human shape.  Or at least, a half-human shape.  Werewolves, harpies, vampires, sirens.  They’re all very dangerous creatures, you know.  So are elves and nymphs.  Sometimes they look really unassuming only to whisk you off into another world, never to be seen by your loved ones again!  Now wouldn’t that be terrible?
+ 
+[Pause for response]
+ 
+[Surprised]  Wouldn’t be so bad?  What makes you say something like that?  If I didn’t know any better, I’d say you <like> the idea of being taken to another world.
+ 
+[Pause for response]
+ 
+[Skeptical]  You’re just… curious about other worlds.  I really don’t buy that.  You’ve got this look in your eye.  Something that says you’re looking for trouble.  [With a light laugh]  But why in the world would someone like you want trouble?  And with <those> kinds of creatures, at that.
+ 
+[Pause for response]
+ 
+Bored?  For such a simple reason?  You are the most… peculiar person I’ve met on my travels.  Not that I’ve met many people.  It’s much easier to get places when you move around in places where there are less people.
+ 
+[Pause for response]
+ 
+Hm?  Where am I from?  [Hesitantly]  O-Oh, I’m from… somewhere quite far away.  I doubt you know where it is.  Even for someone of your… status.
+ 
+[Pause for response]
+ 
+Hm?  How did I know you were a person of high status?  Well, your clothing, of course.  [With a light laugh]  It isn’t exactly subtle.  If you didn’t want to be noticed, I think you maybe should have worn something else.  Your clothes are lovely, though.  If you wouldn’t mind, I’d like to ask what your status is.
+ 
+[Pause for response]
+ 
+[With a small gasp]  Royalty?  You’re the royal heir (crown prince/princess)?  Oh, no wonder you look so magnificent.  If I had known I was going to meet royalty today, I would have dressed in my finest garb.  [With a light laugh]  I doubt I’ll be impressing anyone dressed like this.
+ 
+[Pause for response]
+ 
+You… think I look nice?  Truly?
+ 
+[Pause for response]
+ 
+[Slightly nervous]  Oh, you flatter me.  I appreciate you saying such kind words to someone like myself.  [A beat]  So, what’s it like being the royal heir (crown prince/princess) of your kingdom?  Are your traditions similar to those of other kingdoms?
+ 
+[Pause for response]
+ 
+Only similar to a few of them?  Well, any amount of similarity between kingdoms regarding traditions is good, isn't it?  But… you look a bit troubled about something.  Care to tell me what exactly’s weighing down on your mind?  It’s one of your traditions, isn’t it?
+ 
+[Pause for response]
+ 
+It’s about time for you to… look for a suitor?  Well, why exactly would that be causing you so much strife?  I would think someone like you would be glad to be finding a suitor.  I mean, who <wouldn’t> want to court someone such as yourself?
+ 
+[Pause for response]
+ 
+You don’t want to do it the traditional way?  [With a light laugh]  Well, I suspect that very few would.  It <is> an important decision, after all.  Deciding who it is you want to marry.  [A beat]  You know, I’ve had difficulty with something similar recently myself.  It’s part of the reason I went traveling.  Just like you, I needed a break.  But instead of running into the closest forest, I…
+ 
+[Pause for response]
+ 
+Yes.  I went on a journey, you could say.  But I’ll be home soon.
+ 
+[Pause for response]
+ 
+Am I ready?  [With a sigh]  If I’m being honest, no.  I’m not ready.  I’ve caused a lot of trouble lately, and I just know I’ll get a lecture about how it was  [Mockingly]  irresponsible of me to leave when there was just so much work to be done.
+ 
+[Pause for response]
+ 
+It’ll be fine.  When I get back, I’ll be returning with good news.  I’ve had plenty of time to see the world and think about my own decision, and… I think I’ll be able to discuss the idea of breaking tradition.
+ 
+[Pause for response]
+ 
+My decision?  Well, I’ve decided that I shouldn’t be limited only to those who live in the same area I live.  I should be able to choose anyone from anywhere I wish.
+ 
+[Pause for response]
+ 
+Hm?  Do I have a person in mind?  Well, yes, actually.  I do.  But I don’t really know them (him/her) very well at all.  We met by chance during my travels.  It was a brief encounter, but they (he/she) left quite the impression on me.
+ 
+[Pause for response]
+ 
+Why that person?  Well… when I first saw them (him/her), I could feel my heart flutter.  I felt this strong urge to hold them (him/her) close and never let go, and to… to protect them (him/her).
+ 
+[Pause for response]
+ 
+Love at first sight?  That’s what you call that?  I’ve never felt such feelings before, especially not for a creature so similar to myself.  It’s… nice.  What do you think I should do when I feel like this?
+ 
+[Pause for response]
+ 
+I should… tell them (him/her)?  But… what if they don’t (he/she doesn’t) feel the same way about me that I do about them (him/her)?
+ 
+[Pause for response]
+ 
+[Slightly saddened]  No, I… I <need> them (him/her) to like me.  If they don’t, then… then I’m uncertain I’ll be able to prove that I should be allowed to choose a mate for myself.
+ 
+[Pause for response]
+ 
+[Surprised]  Huh?  Is something wrong with the word “mate”?
+ 
+[Pause for response]
+ 
+Oh, I see.  [Whispers to self]  So humans find the word offensive.  [To the human]  So… what word should I use instead?
+ 
+[Pause for response]
+ 
+[As if the word is unfamiliar]  Spouse (Husband/Wife).  All right, I’ll have to remember that.  [A beat]  So, I do have another question for you.  About… about what you were saying earlier.
+ 
+[Pause for response]
+ 
+Are you… really not afraid of creatures that aren’t human?  Like, like werewolves and vampires?
+ 
+[Pause for response]
+ 
+So you aren’t afraid of them, but… what about… elves, nymphs, and… and faeries?
+ 
+[Pause for response]
+ 
+[Slightly flustered]  I-Is it really such a sudden question?  I mean, you were saying that you were curious about these different worlds, and wouldn’t it be a little difficult to explore them if you were afraid?
+ 
+[Pause for response]
+ 
+Cautious of the fae… but not afraid?  [Amused, knowingly]  It’s all right to be a little afraid, you know.  And it’s perfectly all right to admit it.  [A beat]  You know, Royal (Prince/Princess), I like you.  I think I’d like to get to know you a bit more.  I think first, I’d like to know your name.  I’m not from these parts, so I’m unfamiliar with the royal family of this kingdom.  So… what’s your name?
+ 
+[Pause for response]
+ 
+[With a light, mischievous laugh]  You have a lovely name.  Or rather… you <had> one.  Unfortunately, this name is no longer your own.  It belongs to me now, and because your name is now mine, <you> are now mine as well.  You see, I’m one of the faeries.
+ 
+[Pause for response]
+ 
+[With a click of the tongue]  No protesting.  What’s done is done.  But you can calm yourself down.  I assure you I won’t do anything to harm you.
+ 
+[Pause for response]
+ 
+What do I intend to do?  Well, now that I have your name, I suppose I have as much control over you as I wish.  [Amused, seductively if desired]  I could do anything I want with you, and there isn’t anything you can do about it.  I could lock you up in your own mind and leave you as a walking puppet with no other purpose than to serve me.  [With a light laugh]  Wouldn’t that be nice?  Or… [Barely above a whisper]  I could make you reject humanity altogether and take you away from here, never to return.  [A beat]  But what I really want to do… is to fill your mind up until all you can think about is me.
+ 
+[Pause for response]
+ 
+[With a light laugh]  Yes, that's right!  I want to make you want to never be apart from me for as long as you live.  Oh, imagine the bliss you’ll feel once I take you in my arms and whisper sweet nothings in your ear until you fall asleep.
+ 
+[Pause for response]
+ 
+Why did I need to take your name if I didn’t wish to harm you?  Well, I didn’t!  It’s in my nature to take any name that is given to me, whether I plan to use it or not.  Think of it as… assurance.  Assurance that if you do anything to upset me, you will be punished accordingly.
+ 
+[Pause for response]
+ 
+Why am I doing this?  I’ve already explained it to you.  You want to explore other worlds, and your human courtship rituals are making you uneasy.  I also have grown… tired of the traditional courtship rituals of the faeries.  Being royalty is… difficult, isn’t it?
+ 
+[Pause for response]
+ 
+[With a light laugh]  Oh, did I forget to mention that?  Yes, I too am royalty.  Just like you, I am next in line to take the throne.  [A beat]  So, I’ve decided that I will take you as mine.
+ 
+[Pause for response]
+ 
+[Slightly flustered]  Y-Yes, I… suppose you could say I’m… proposing to you.  To be my fiance(e).  Do you… accept?
+ 
+[Pause for response]
+ 
+[With a light, mischievous laugh]  No, I suppose you don’t have much of a choice in the matter.  But worry not.  I will be good to you.  So, my love, would you be a dear and escort me back to your home?  I’d like to meet my future family.
+ 
+[Pause for response]
+ 
+[With a light laugh]  Thank you, dearest.  I promise you won’t regret this meeting.
+ 
+[Footsteps on grass]
